@@ -86,16 +86,16 @@
         "Bacon",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
-      "nome": "Abc",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
+      "nome": "Teste Novo",
+      "carne": "Picanha",
+      "pao": "Italiano Branco",
       "opcionais": [
-        "Pepino",
-        "Tomate"
+        "Salame",
+        "Cheddar"
       ],
       "status": "Solicitado",
       "id": 2
